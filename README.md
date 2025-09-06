@@ -78,6 +78,6 @@ The system successfully enhances resolution and applies blind evaluation for qua
 - **Yash Purbhe**
 - **Dipshree Vartak** 
 - **Aditya Kokate**  
-- **Manas Gurav**  
+- **Manas Gurav**
 
 ---
